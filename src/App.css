@@ -1,0 +1,30 @@
+header {
+  background-color: #2563eb;
+  color: white;
+  text-align: center;
+  padding: 25px;
+}
+
+main {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.card h2 {
+  color: #2563eb;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
